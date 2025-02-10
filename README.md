@@ -11,4 +11,4 @@
 - 📈 Entrepreneurship & Consulting
 
 ### 📌 Let's Connect!
-[![LinkedIn](https://www.linkedin.com/in/ridvan-sibic-300b5512a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ridvan-sibic-300b5512a/)
