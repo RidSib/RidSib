@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ridvan
 
-<!--
-**RidSib/RidSib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **AI Engineer | Data Scientist | Software Developer**  
+🚀 Passionate about AI, freelancing, and building innovative solutions.  
+📈 Currently working on image generation & NLP projects.
 
-Here are some ideas to get you started:
+## 🔥 My Expertise:
+- 💻 Python, AI, Machine Learning, LangChain, LLMs
+- 📊 Data Science & Analytics
+- 🎯 Project Management & Strategic Planning
+- 📈 Entrepreneurship & Consulting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Let's Connect!
+[![LinkedIn](https://www.linkedin.com/in/ridvan-sibic-300b5512a/)
