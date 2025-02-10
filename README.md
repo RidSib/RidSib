@@ -2,7 +2,7 @@
 
 💡 **AI Engineer | Data Scientist | Software Developer**  
 🚀 Passionate about AI, freelancing, and building innovative solutions.  
-📈 Currently working on image generation & NLP projects.
+📈 Currently working on image generation & voice assisted conversational AI projects.
 
 ## 🔥 My Expertise:
 - 💻 Python, AI, Machine Learning, LangChain, LLMs
@@ -11,4 +11,4 @@
 - 📈 Entrepreneurship & Consulting
 
 ### 📌 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ridvan-sibic-300b5512a/)
+[![LinkedIn]](https://www.linkedin.com/in/ridvan-sibic-300b5512a/)
