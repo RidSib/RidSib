@@ -5,7 +5,7 @@
 📈 Currently working on image generation & voice assisted conversational AI projects.
 
 ## 🔥 My Expertise:
-- 💻 Python, AI, Machine Learning, LangChain, LLMs
+- 💻 Python, AI, RAG, VectorDB, LangChain, LLMs
 - 📊 Data Science & Analytics
 - 🎯 Project Management & Strategic Planning
 - 📈 Entrepreneurship & Consulting
